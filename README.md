@@ -33,3 +33,9 @@ index=main source="sample_log.txt" "User logged in"
 index=main source="sample_log.txt" ERROR
 index=main source="security_log.csv" EventID=1038
 index=main source="security_log.csv" EventID=7040
+
+## Screenshot
+
+Here’s a snapshot of the logs visualized in Splunk:
+
+![Splunk Screenshot](screenshots/splunk_results.png)
